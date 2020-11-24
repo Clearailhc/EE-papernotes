@@ -4,7 +4,7 @@ paper notes on **Event Extraction** and **Eventual Graph** from 20 top conferenc
 ### Conferences table
 |Idx|Conference|Area|CCF|Year|
 |-|-|-|-|-|
-|1|ACL|NLP|A|2020, 2019, 2018|
+|1|ACL|NLP|A|[2020](2020/ACL/acl2020-paperlist.md), 2019, 2018|
 |2|EMNLP|NLP|B|2020, 2019, 2018|
 |3|COLING|NLP|B|2020, 2018|
 |4|NAACL|NLP|C|2020, 2019, 2018|
