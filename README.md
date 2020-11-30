@@ -1,6 +1,6 @@
 # EE-papernotes
-paper notes on **Event Extraction** and **Eventual Graph** from 20 top conferences:
-
+Paper notes on **Event Extraction** and **Eventual Graph** from 20 top conferences:
+(raw paper pdf and other information can be found in ⚡Overview)
 ### Conferences table
 |Idx|Conference|Area|CCF|Year|
 |-|-|-|-|-|
@@ -24,3 +24,6 @@ paper notes on **Event Extraction** and **Eventual Graph** from 20 top conferenc
 |18|ECML-PKDD|ML|B|2020, 2019, 2018|
 |19|WWW|MIX|A|2020, 2019, 2018|
 |20|KR|KR|B|2020, 2019, 2018|
+
+### Get in contact😋
+Any questions can contact us by `haochenli@pku.edu.cn`. Any academic cooperation is also strongly welcome.
